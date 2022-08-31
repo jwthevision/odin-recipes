@@ -8,26 +8,21 @@ h1 {
 }
 
 a {
-    background-color: rgb(6, 87, 40);
-    color: azure;
+    background-color: rgb(9, 236, 103);
+    color: rgb(2, 37, 37);
     font-size: 28px;
-    font-family: 'Courier New', Courier, monospace;
-    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-p {
+.ul .li {
     background-color: goldenrod;
     color: brown;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 25px;
-}
-
-u1, ol {background-color: rgb(165, 42, 42);
-    color: goldenrod;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 25px;
-
+    font-size: 28px;
+    text-align: center;
 }
 
 img {
